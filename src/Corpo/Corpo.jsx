@@ -1,5 +1,5 @@
 import Esquerda from "./Corpo-SubComp/Esquerda"
-import SideBar from "./Corpo-SubComp/SideBar"
+import SideBar from "./Corpo-SubComp/SideBar/SideBar"
 
 export default function Corpo() {
     return(
