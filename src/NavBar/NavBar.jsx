@@ -1,9 +1,9 @@
-import Container from "./NavBar-SubComp/Container"
+import Container from "./Container/Container"
 
 export default function NavBar() {
-    return(
+  return (
     <div class="navbar">
-        <Container/>
-      </div>
-    )
+      <Container />
+    </div>
+  )
 }

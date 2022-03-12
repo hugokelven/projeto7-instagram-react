@@ -1,5 +1,5 @@
-import AcoesFundo from "./AcoesFundo"
-import Curtidas from "./Curtidas"
+import AcoesFundo from "./Componentes/AcoesFundo"
+import Curtidas from "./Componentes/Curtidas"
 
 export default function Fundo(props) {
     return (

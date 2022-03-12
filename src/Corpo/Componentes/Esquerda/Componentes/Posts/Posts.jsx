@@ -1,4 +1,4 @@
-import Post from "./Posts-SubComp/Post"
+import Post from "./Post/Post"
 
 const posts = [
   {

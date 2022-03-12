@@ -1,5 +1,5 @@
-import Story from "./Stories-SubComp/Story"
-import Setinha from "./Stories-SubComp/Setinha"
+import Story from "./Componentes/Story"
+import Setinha from "./Componentes/Setinha"
 
 export default function Stories() {
   const usuarios = [

@@ -1,5 +1,5 @@
-import AcoesTopo from "./AcoesTopo"
-import Usuario from "./Usuario"
+import AcoesTopo from "./Componentes/AcoesTopo"
+import Usuario from "./Componentes/Usuario"
 
 export default function Topo(props) {
     return (

@@ -1,5 +1,5 @@
-import Stories from "./Esquerda-SubComp/Stories"
-import Posts from "./Esquerda-SubComp/Posts"
+import Stories from "./Componentes/Stories/Stories"
+import Posts from "./Componentes/Posts/Posts"
 
 export default function Esquerda() {
     return(
